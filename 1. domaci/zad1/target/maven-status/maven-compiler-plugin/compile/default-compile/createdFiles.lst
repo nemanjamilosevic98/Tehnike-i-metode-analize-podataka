@@ -1,0 +1,5 @@
+domaci\zad1\Main.class
+domaci\zad1\services\DatasetReaderService.class
+domaci\zad1\servicesImpl\LinearRegressionServiceImpl.class
+domaci\zad1\servicesImpl\DatasetReaderServiceImpl.class
+domaci\zad1\services\LinearRegressionService.class
